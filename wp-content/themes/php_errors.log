@@ -1,0 +1,24 @@
+[29-Sep-2017 15:16:04 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:16:04 UTC] PHP Stack trace:
+[29-Sep-2017 15:16:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:16:23 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:16:23 UTC] PHP Stack trace:
+[29-Sep-2017 15:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:16:31 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:16:31 UTC] PHP Stack trace:
+[29-Sep-2017 15:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:16:46 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:16:46 UTC] PHP Stack trace:
+[29-Sep-2017 15:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:16:56 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:16:56 UTC] PHP Stack trace:
+[29-Sep-2017 15:16:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:17:28 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:17:28 UTC] PHP Stack trace:
+[29-Sep-2017 15:17:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:17:36 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:17:36 UTC] PHP Stack trace:
+[29-Sep-2017 15:17:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
+[29-Sep-2017 15:19:39 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php on line 14
+[29-Sep-2017 15:19:39 UTC] PHP Stack trace:
+[29-Sep-2017 15:19:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/expunge-iov3-master-wordpresssite/front-page.php:0
