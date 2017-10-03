@@ -50,9 +50,6 @@
         <li class="page-scroll">
           <a href="#legal">LEGAL AID</a>
         </li>
-        <li class="page-scroll">
-          <a href="#contact">Español</a>
-        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -219,20 +216,31 @@
           You will need to get your arrest record (rap sheet) to know for sure. You can get in touch with legal help to find out!
         </p>
         <div class="form-style-5">
-        <form>
-        <fieldset>
-        <legend><span class="number">1</span> Your info</legend>
-        <input type="text" name="field1" placeholder="Your Full Name *">
-        <textarea name="field3" placeholder="How did you hear about expunge.io?"></textarea>
-        <input type="email" name="field2" placeholder="Your Email *">
-        <input type="number" name="field3" placeholder="Your Number"></input>
-        <input type="submit" value="Submit" />
-        </fieldset>
-        </form>
+        <div id="wufoo-z1qurfjk1buq7uw">
+          Fill out my <a href="https://juvenileexpungementhelpdesk.wufoo.com/forms/z1qurfjk1buq7uw">online form</a>.
+        </div>
+        <script type="text/javascript">var z1qurfjk1buq7uw;(function(d, t) {
+           var s = d.createElement(t), options = {
+             'userName':'juvenileexpungementhelpdesk',
+             'formHash':'z1qurfjk1buq7uw',
+             'autoResize':false,
+             'height':'420',
+             'async':true,
+             'host':'wufoo.com',
+             'header':'show',
+             'ssl':true};
+           s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+           s.onload = s.onreadystatechange = function() {
+             var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+             try { z1qurfjk1buq7uw = new WufooForm();z1qurfjk1buq7uw.initialize(options);z1qurfjk1buq7uw.display(); } catch (e) {}};
+           var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+         })(document, 'script');</script>
         </div>
       </div>
-      <div class="modal-footer text-center">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      <div class="modal-footer">
+        <div class="text-center">
+         <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+        </div>
       </div>
       </div>
     </div>
@@ -261,8 +269,10 @@
           search for your zip code here and contact the appropriate legal aid organization
         </p>
       </div>
-      <div class="modal-footer text-center">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      <div class="modal-footer">
+        <div class="text-center">
+          <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>  
+        </div>
       </div>
     </div>
   </div>
@@ -315,7 +325,7 @@
       </div>
       <div class="modal-footer">
         <div class="text-center">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
       </div>
     </div>
@@ -397,7 +407,7 @@
       </div>
       <div class="modal-footer">
         <div class="text-center">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
       </div>
     </div>
@@ -478,7 +488,7 @@
       </div>
       <div class="modal-footer">
         <div class="text-center">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
       </div>
     </div>
@@ -844,21 +854,30 @@
         Please fill this form out to speak with someone from the Juvenile Expungement Help Desk.
       </p>
       <div class="form-style-5">
-        <form>
-        <fieldset>
-        <legend><span class="number">1</span> Your info</legend>
-        <input type="text" name="field1" placeholder="Your Full Name *">
-        <textarea name="field3" placeholder="How did you hear about expunge.io?"></textarea>
-        <input type="email" name="field2" placeholder="Your Email *">
-        <input type="number" name="field3" placeholder="Your Number"></input>
-        <input type="submit" value="Submit" />
-        </fieldset>
-        </form>
+        <div id="wufoo-z1qurfjk1buq7uw">
+          Fill out my <a href="https://juvenileexpungementhelpdesk.wufoo.com/forms/z1qurfjk1buq7uw">online form</a>.
+        </div>
+        <script type="text/javascript">var z1qurfjk1buq7uw;(function(d, t) {
+           var s = d.createElement(t), options = {
+             'userName':'juvenileexpungementhelpdesk',
+             'formHash':'z1qurfjk1buq7uw',
+             'autoResize':false,
+             'height':'420',
+             'async':true,
+             'host':'wufoo.com',
+             'header':'show',
+             'ssl':true};
+           s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+           s.onload = s.onreadystatechange = function() {
+             var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+             try { z1qurfjk1buq7uw = new WufooForm();z1qurfjk1buq7uw.initialize(options);z1qurfjk1buq7uw.display(); } catch (e) {}};
+           var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+         })(document, 'script');</script>
         </div>
       </div>
       <div class="modal-footer">
         <div class="text-center">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
       </div>
     </div>
@@ -917,7 +936,7 @@
       </ul>
       <div class="modal-footer">
         <div class="text-center">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
       </div>
     </div>
