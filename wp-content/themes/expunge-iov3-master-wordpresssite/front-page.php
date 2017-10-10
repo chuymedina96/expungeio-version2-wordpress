@@ -142,10 +142,13 @@
             <button class="learn-more btn btn-lg btn-warning button-hover">Learn More</button>
           </a>
       </div>
+      <h3 style="color:#fff" class="text-center" id="video-title">
+              Expungement: Myths vs Reality
+      </h3>
       <div class="col-lg-8 col-lg-offset-2 text-center">
         <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
         <div class='embed-container'>
-          <iframe src='https://www.youtube.com/embed/aNTu6SrZGLY' frameborder='0' allowfullscreen></iframe>
+          <iframe src="https://player.vimeo.com/video/222452006" width="640" height="360" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -164,7 +167,7 @@
     </div>
     <div class="row">
       <div class="col-lg-12 camille">
-        <img class="img-responsive" src="img/camille.jpg"></img><br>
+        <img class="img-responsive" src=""></img>
       </div>
     </div>
     <div class="row">
@@ -510,7 +513,7 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>More on expungement</h2>
+            <h2 style="color:#43BDBD">More on expungement</h2>
             <p>EXPUNGEMENT is the legal process of ERASING juvenile arrests and court cases. 
                Only a judge can order that records be expunged. Once you have your record expunged, you can lawfully say that you do not have a criminal record on applications. 
             </p>
@@ -520,15 +523,6 @@
             <p>
               Even though juvenile records are supposed to be confidential, there many exceptions to this general rule. That means that there are a lot of people who could potentially see your record legally. <a href="http://ijjc.illinois.gov/sites/ijjc.illinois.gov/files/assets/Burdened%20for%20Life.pdf">Juvenile records are also sometimes unlawfully disclosed to employers, landlords, schools, and licensing boards.</a>
             </p><br>
-            <div class="text-center">
-              <h2 style="color:#43BDBD">
-              Expungement: Myths vs Reality
-            </h2>
-              <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-              <div class='embed-container'>
-                <iframe src="https://player.vimeo.com/video/222452006" width="640" height="360" frameborder="0"></iframe>
-              </div>
-            </div><br>
             <div class="text-center">
             <button id="close" type="button" class="modal-close btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
             </div>
@@ -554,7 +548,7 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>More on expungement</h2>
+            <h2 style="color:#43BDBD">More on expungement</h2>
             <p>
               A juvenile record does not go away on its own, and you're better off without one. A juvenile record can be a serious barrier to a good job, housing, or academic programs. The good news: most juvenile records can be erased through a process called juvenile expungement, and as of January 1, 2017, many people can start the expungement process at ANY AGE!
             </p>
